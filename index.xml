@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soho Theme on Tauseef Rehman</title>
+    <link>https://tauseefr7.github.io/Tauseef_Portfolio/</link>
+    <description>Recent content in Soho Theme on Tauseef Rehman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tauseefr7.github.io/Tauseef_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why The Stock Market Is Not Random</title>
+      <link>https://tauseefr7.github.io/Tauseef_Portfolio/post/project_1/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tauseefr7.github.io/Tauseef_Portfolio/post/project_1/</guid>
+      <description>Hey everyone</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tauseefr7.github.io/Tauseef_Portfolio/contact/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tauseefr7.github.io/Tauseef_Portfolio/contact/</guid>
+      <description>If you want to contact me regarding collaborating on projects, questions about my projects (if you are a student) or interesting employment opportunities then please contact me on: tauseefr84@gmail.</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://tauseefr7.github.io/Tauseef_Portfolio/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tauseefr7.github.io/Tauseef_Portfolio/post/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://tauseefr7.github.io/Tauseef_Portfolio/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tauseefr7.github.io/Tauseef_Portfolio/about/</guid>
+      <description>I’m a business intelligence analyst working at an NHS Trust within the information department who excels [at data cleaning, EDA, and statistical analysis.</description>
+    </item>
+    
+  </channel>
+</rss>
